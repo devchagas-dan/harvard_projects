@@ -5,3 +5,20 @@ Olá!! Me chamo Daniela Chagas, concluí o curso CS50 Introduction to Computer S
 ## 🚀 Sobre mim
 * **Interesses**: Desenvolvimento de Aplicativos Móveis, Java, Desenvolvimento de Software, Python
 * **Nível de experiência**: Iniciante
+
+### Projeto 1 -  mario.c
+A ideia do projeto era criar uma escada de hashes na linguagem C, simbolizando a escada que o Mario sobre no jogo Super Mario Bros.
+
+### Projeto 2 - cash.c
+**Problema a ser resolvido:**
+Suponha que você trabalhe em uma loja e um cliente lhe dê R$ 1,00 (100 centavos) por um doce que custa R$ 0,50 (50 centavos). Você precisará pagar a eles o “troco”, o valor que sobra depois de pagar o custo do doce. Ao fazer o troco, é provável que você queira minimizar o número de moedas que está distribuindo para cada cliente, para não acabar (ou irritar o cliente!). Implementar um programa em C que imprima as moedas mínimas necessárias para fazer um determinado valor de troco, em centavos.
+
+### Projeto 3 - scrabble.c
+**Problema a ser resolvido:**
+o jogo Scrabble , os jogadores criam palavras para marcar pontos, e o número de pontos é a soma dos valores dos pontos de cada letra da palavra. Implementar um programa em C que determine o vencedor de um jogo curto do tipo Scrabble. Seu programa deve solicitar entrada duas vezes: uma vez para o “Jogador 1” inserir sua palavra e uma vez para o “Jogador 2” inserir sua palavra. Então, dependendo de qual jogador marcar mais pontos, seu programa deverá imprimir “Jogador 1 vence!”, “Jogador 2 vence!” ou “Empate!” (caso os dois jogadores marquem pontos iguais).
+
+### Projeto 4 - readability.c
+**Problema a ser resolvido:**
+De acordo com a Scholastic , Charlotte's Web , de EB White está entre o nível de leitura da segunda e quarta série, e The Giver, de Lois Lowry , está entre o nível de leitura da oitava e décima segunda série. O que significa, porém, um livro estar em um determinado nível de leitura?
+Bem, em muitos casos, um especialista humano pode ler um livro e tomar uma decisão sobre a série (ou seja, o ano escolar) para a qual acha que o livro é mais apropriado. Mas um algoritmo provavelmente também poderia descobrir isso!
+Implementar um programa que calcula a nota aproximada necessária para compreender algum texto. Seu programa deve imprimir como saída “Nota X”, onde “X” é a série calculada, arredondada para o número inteiro mais próximo. Se a nota for 16 ou superior (equivalente ou superior a um nível de leitura de graduação sênior), seu programa deverá gerar “Grade 16+” em vez de fornecer o número de índice exato. Se o nível da série for inferior a 1, seu programa deverá gerar “Antes da 1ª série”.
