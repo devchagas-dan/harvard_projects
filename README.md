@@ -78,7 +78,11 @@ Em um arquivo chamado inheritance.c em uma pasta chamada inheritance, criar prog
 **Problema a ser resolvido:**
 Para este problema, você implementará um programa que verifica a ortografia de um arquivo, usando uma tabela hash.
 
-### Projeto 14 - sentimental-mario.py
+### Projeto 14 - mario.py
 **Problema a ser resolvido:**
  Escreva um programa que recrie uma meia pirâmide usando hashes ( #) para blocos, exatamente como você fez no Conjunto de Problemas 1 . Seu programa desta vez deve ser escrito em Python!
+
+ ### Projeto 15 - cash.py
+ **Problema a ser resolvido:**
+escreva um programa que pergunte ao usuário quanto o troco é devido e depois cospe o número mínimo de moedas com as quais esse troco pode ser feito. Você pode fazer isso exatamente como fez no Conjunto de Problemas 1 , exceto que seu programa desta vez deve ser escrito em Python, e você deve assumir que o usuário inserirá seu troco em dólares (por exemplo, 0,50 dólares em vez de 50 centavos).
  
