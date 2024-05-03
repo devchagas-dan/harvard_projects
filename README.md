@@ -97,3 +97,8 @@ escreva um programa que pergunte ao usuário quanto o troco é devido e depois c
    ### Projeto 18 - songs.sql
  **Problema a ser resolvido:**
  Escreva consultas SQL para responder perguntas sobre um banco de dados das 100 músicas mais ouvidas no Spotify em 2018.
+
+   ### Projeto 19- movies.sql
+ **Problema a ser resolvido:**
+ É fornecido a você um arquivo chamado movies.db, um banco de dados SQLite que armazena dados do IMDb sobre filmes, as pessoas que os dirigiram e estrelaram e suas classificações. Escreva consultas SQL para responder perguntas sobre este banco de dados de filmes.
+ 
