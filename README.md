@@ -89,3 +89,7 @@ escreva um programa que pergunte ao usuário quanto o troco é devido e depois c
  ### Projeto 16 - readability.py
  **Problema a ser resolvido:**
  Escreva, em um arquivo chamado readability.pyem uma pasta chamada sentimental-readability, um programa que primeiro peça ao usuário para digitar algum texto e, em seguida, forneça a nota do texto, de acordo com a fórmula de Coleman-Liau, exatamente como você fez no Conjunto de Problemas 2 , exceto que seu programa desta vez deve ser escrito em Python.
+
+  ### Projeto 17 - dna.py
+ **Problema a ser resolvido:**
+ Sua tarefa é escrever um programa que pegue uma sequência de DNA e um arquivo CSV contendo contagens de STR para uma lista de indivíduos e então produza a quem o DNA (provavelmente) pertence.
