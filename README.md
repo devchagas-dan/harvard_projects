@@ -62,4 +62,9 @@ Criar um programa para simular uma eleição pelo método de votação Tideman.
 **Problema a ser resolvido:**
 Escrever um programa que aplique filtros a arquivos BMPs
 
+### Projeto 11 - reverse.c
+**Problema a ser resolvido:**
+Escrever um programa que recebe um arquivo WAv e toca de trás pra frente
+
+
  
