@@ -85,4 +85,7 @@ Para este problema, você implementará um programa que verifica a ortografia de
  ### Projeto 15 - cash.py
  **Problema a ser resolvido:**
 escreva um programa que pergunte ao usuário quanto o troco é devido e depois cospe o número mínimo de moedas com as quais esse troco pode ser feito. Você pode fazer isso exatamente como fez no Conjunto de Problemas 1 , exceto que seu programa desta vez deve ser escrito em Python, e você deve assumir que o usuário inserirá seu troco em dólares (por exemplo, 0,50 dólares em vez de 50 centavos).
- 
+
+ ### Projeto 16 - readability.py
+ **Problema a ser resolvido:**
+ Escreva, em um arquivo chamado readability.pyem uma pasta chamada sentimental-readability, um programa que primeiro peça ao usuário para digitar algum texto e, em seguida, forneça a nota do texto, de acordo com a fórmula de Coleman-Liau, exatamente como você fez no Conjunto de Problemas 2 , exceto que seu programa desta vez deve ser escrito em Python.
