@@ -113,9 +113,14 @@ Tudo o que você sabe é que o roubo ocorreu em 28 de julho de 2023 e ocorreu na
 
 Como você resolverá esse mistério? As autoridades de Fiftyville pegaram alguns registros da cidade na época do roubo e prepararam um banco de dados SQLite para você, fiftyville.dbque contém tabelas de dados de toda a cidade. Você pode consultar essa tabela usando SELECTconsultas SQL para acessar os dados de seu interesse. Usando apenas as informações do banco de dados, sua tarefa é resolver o mistério.
 
-   ### Projeto 21- fiftyville.html/css/js
+  ### Projeto 21- trivia.html/css/js
  **Problema a ser resolvido:**
  Escreva uma página da web que permita aos usuários responder perguntas triviais.
+
+### Projeto 22- homepage.html/css/js
+ **Problema a ser resolvido:**
+Crie uma página inicial simples usando HTML, CSS e JavaScript.
+
 
 
  

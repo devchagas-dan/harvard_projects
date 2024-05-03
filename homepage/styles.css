@@ -1,0 +1,126 @@
+
+body {
+    background-color: #FAF0E6;
+    color: 	#800000;
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 20px;
+    text-align: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: flex;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px;
+}
+nav h3 {
+    color: #800000;
+
+}
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+ul li {
+    margin-right: 13px;
+    font-weight: bold;
+
+}
+
+ul li a {
+    color: #800000;
+    font-weight: bold;
+}
+header {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: #CD5C5C;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+button, input[type="submit"] {
+    background-color: #FFFF00;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 0.375rem 0.75rem;
+    text-align: center;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    vertical-align: middle;
+}
+
+.section-container {
+    padding:auto;
+    margin:auto;
+
+}
+.card {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+}
+
+footer {
+    background-color: #FAF0E6;
+    color: 	#800000;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.text-display {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: flex;
+    height: 15vh;
+    margin: 0;
+}
+.intro {
+    flex: 1;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.picture {
+    margin-right: 20px;
+    margin-left: 40px;
+    max-width: 100%;
+    height: 100%;
+}
+
+.contain {
+    display: flex;
+    align-item: center;
+}
+
+@media screen and (max-width: 768px) {
+.card {
+    width: 100%;
+    }
+}
