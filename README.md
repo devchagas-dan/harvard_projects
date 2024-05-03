@@ -44,3 +44,11 @@ As eleições vêm em todas as formas e tamanhos. No Reino Unido, o primeiro-min
 Talvez a maneira mais simples de realizar uma eleição seja através de um método comumente conhecido como “voto por pluralidade” (também conhecido como “o primeiro a passar” ou “o vencedor leva tudo”). Na votação por pluralidade, cada eleitor vota em um candidato. Ao final da eleição, o candidato que obtiver o maior número de votos é declarado vencedor da eleição.
 
 Para este problema, implementar um programa que executa uma eleição plural
+
+### Projeto 8 - runoff.c
+**Problema a ser resolvido:**
+Você já conhece as eleições pluralistas, que seguem um algoritmo muito simples para determinar o vencedor de uma eleição: cada eleitor recebe um voto e o candidato com mais votos vence.
+
+Mas o voto por pluralidade tem algumas desvantagens.
+Existe outro tipo de sistema de votação conhecido como sistema de votação por escolha classificada. Num sistema de escolha por classificação, os eleitores podem votar em mais de um candidato. Em vez de apenas votar na escolha preferida, eles podem classificar os candidatos em ordem de preferência.
+Criar um programa para simular um segundo turno.
