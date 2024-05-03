@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            // TODO: Add code to check answers to questions
+            document.addEventListener('DOMContentLoaded', function(){
+
+                let right_answer = document.querySelector('#correct');
+                right_answer.addEventListener('click', function(){
+                    right_answer.style.backgroundColor = 'green';
+                    document.querySelector('#response1').innerHTML = 'Correct!';
+                });
+
+                let wrong_answer = document.querySelectorAll('.incorrect');
+                for (let i = 0; i < wrong_answer.length; i++)
+                {
+                    wrong_answer[i].addEventListener('click', function(){
+                        wrong_answer[i].style.backgroundColor = 'red';
+                       document.querySelector('#response1').innerHTML = 'Incorrect';
+                    });
+                }
+
+
+                document.querySelector('#check').addEventListener('click', function()
+                {
+                    let input = document.querySelector('input');
+                    if (input.value === 'Portuguese')
+                    {
+                        input.style.backgroundColor = 'green';
+                        document.querySelector('#response2').innerHTML = 'Correct!';
+                    }
+                    else
+                    {
+                        input.style.backgroundColor = 'red';
+                        document.querySelector('#response2').innerHTML = 'Incorrect!';
+                    }
+                });
+            });
+
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+                <h3>What's Brazil's capital city?</h3>
+                <button class="incorrect">São Paulo</button>
+                <button class="incorrect">Rio de Janeiro</button>
+                <button id="correct">Brasilia</button>
+                <p id="response1"></p>
+
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                <h3>What's the most spoken language in Brazil?</h3>
+                <input type="text"></input>
+                <button id="check">Check Answer</button>
+                <p id="response2"></p>
+
+            </div>
+        </div>
+    </body>
+</html>
