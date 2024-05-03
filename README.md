@@ -78,4 +78,7 @@ Em um arquivo chamado inheritance.c em uma pasta chamada inheritance, criar prog
 **Problema a ser resolvido:**
 Para este problema, você implementará um programa que verifica a ortografia de um arquivo, usando uma tabela hash.
 
+### Projeto 14 - sentimental-mario.py
+**Problema a ser resolvido:**
+ Escreva um programa que recrie uma meia pirâmide usando hashes ( #) para blocos, exatamente como você fez no Conjunto de Problemas 1 . Seu programa desta vez deve ser escrito em Python!
  
