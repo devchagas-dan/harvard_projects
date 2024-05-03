@@ -66,5 +66,13 @@ Escrever um programa que aplique filtros a arquivos BMPs
 **Problema a ser resolvido:**
 Escrever um programa que recebe um arquivo WAv e toca de trás pra frente
 
+### Projeto 12 - inheritance.c
+**Problema a ser resolvido:**
+O tipo sanguíneo de uma pessoa é determinado por dois alelos (isto é, diferentes formas de um gene). Os três alelos possíveis são A, B e O, dos quais cada pessoa possui dois (possivelmente iguais, possivelmente diferentes). Cada um dos pais de uma criança passa aleatoriamente um dos seus dois alelos de tipo sanguíneo para o filho. As possíveis combinações de tipos sanguíneos são: OO, OA, OB, AO, AA, AB, BO, BA e BB.
+
+Por exemplo, se um dos pais tem tipo sanguíneo AO e o outro pai tem tipo sanguíneo BB, então os tipos sanguíneos possíveis da criança seriam AB e OB, dependendo de qual alelo é recebido de cada pai. Da mesma forma, se um dos pais tiver tipo sanguíneo AO e o outro OB, os possíveis tipos sanguíneos da criança seriam AO, OB, AB e OO.
+
+Em um arquivo chamado inheritance.c em uma pasta chamada inheritance, criar programa que simule a herança dos tipos sanguíneos para cada membro de uma família.
+
 
  
