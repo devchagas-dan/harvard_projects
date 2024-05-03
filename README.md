@@ -101,4 +101,16 @@ escreva um programa que pergunte ao usuário quanto o troco é devido e depois c
    ### Projeto 19- movies.sql
  **Problema a ser resolvido:**
  É fornecido a você um arquivo chamado movies.db, um banco de dados SQLite que armazena dados do IMDb sobre filmes, as pessoas que os dirigiram e estrelaram e suas classificações. Escreva consultas SQL para responder perguntas sobre este banco de dados de filmes.
+
+   ### Projeto 20- fiftyville.sql
+ **Problema a ser resolvido:**
+ O Pato CS50 foi roubado! A cidade de Fiftyville convocou você para resolver o mistério do pato roubado. As autoridades acreditam que o ladrão roubou o pato e, pouco depois, pegou um voo para fora da cidade com a ajuda de um cúmplice. Seu objetivo é identificar:
+
+Quem é o ladrão,
+Para qual cidade o ladrão fugiu e
+Quem é o cúmplice do ladrão que os ajudou a escapar
+Tudo o que você sabe é que o roubo ocorreu em 28 de julho de 2023 e ocorreu na Humphrey Street .
+
+Como você resolverá esse mistério? As autoridades de Fiftyville pegaram alguns registros da cidade na época do roubo e prepararam um banco de dados SQLite para você, fiftyville.dbque contém tabelas de dados de toda a cidade. Você pode consultar essa tabela usando SELECTconsultas SQL para acessar os dados de seu interesse. Usando apenas as informações do banco de dados, sua tarefa é resolver o mistério.
+
  
