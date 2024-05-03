@@ -57,3 +57,9 @@ Criar um programa para simular um segundo turno.
 **Problema a ser resolvido:**
 Você já conhece as eleições pluralistas, que seguem um algoritmo muito simples para determinar o vencedor de uma eleição: cada eleitor recebe um voto e o candidato com mais votos vence.
 Criar um programa para simular uma eleição pelo método de votação Tideman.
+
+### Projeto 10 - filter.c
+**Problema a ser resolvido:**
+Escrever um programa que aplique filtros a arquivos BMPs
+
+ 
