@@ -27,3 +27,12 @@ Implementar um programa que calcula a nota aproximada necessária para compreend
 **Problema a ser resolvido:**
 Supostamente, Caesar (sim, aquele Caesar) costumava “criptografar” (isto é, ocultar de forma reversível) mensagens confidenciais, deslocando cada letra delas em um certo número de lugares. Por exemplo, ele pode escrever A como B, B como C, C como D, …, e, em ordem alfabética, Z como A. E assim, para dizer OLÁ a alguém, César pode escrever IFMMP. Ao receber tais mensagens de César, os destinatários teriam que “descriptografá-las”, deslocando as letras na direção oposta pelo mesmo número de lugares.
 Escreva um programa que permita criptografar mensagens usando a cifra de César. No momento em que o usuário executa o programa, ele deve decidir, fornecendo um argumento de linha de comando, qual deve ser a chave na mensagem secreta que fornecerá em tempo de execução. Não devemos necessariamente presumir que a chave do usuário será um número; embora você possa assumir que, se for um número, será um número inteiro positivo.
+
+### Projeto 6 - substitution.c
+**Problema a ser resolvido:**
+Numa cifra de substituição, “criptografamos” (ou seja, ocultamos de forma reversível) uma mensagem substituindo cada letra por outra letra. Para isso, utilizamos uma chave : neste caso, um mapeamento de cada uma das letras do alfabeto à letra que deve corresponder quando a criptografamos. Para "descriptografar" a mensagem, o receptor da mensagem precisaria conhecer a chave, para que possa reverter o processo: traduzir o texto criptografado (geralmente chamado de texto cifrado ) de volta na mensagem original (geralmente chamado de texto simples ).
+
+Uma chave, por exemplo, pode ser a string NQXPOMAFTRHLZGECYJIUWSKDVB. Esta chave de 26 caracteres significa que A(a primeira letra do alfabeto) deve ser convertida em N(o primeiro caractere da chave), B(a segunda letra do alfabeto) deve ser convertida em Q(o segundo caractere da chave), e assim por diante.
+
+Uma mensagem como HELLO, então, seria criptografada como FOLLE, substituindo cada uma das letras de acordo com o mapeamento determinado pela chave.
+Crie um programa que permita criptografar mensagens usando uma cifra de substituição. No momento em que o usuário executa o programa, ele deve decidir, fornecendo um argumento de linha de comando, qual deve ser a chave na mensagem secreta que fornecerá em tempo de execução.
