@@ -4,7 +4,7 @@ Olá!! Me chamo Daniela Chagas, falante fluente da língua inglesa, concluí o c
 
 ## 🚀 Sobre mim
 * **Interesses**: Desenvolvimento de Aplicativos Móveis, Java, Desenvolvimento de Software, Python
-* **Nível de experiência**: Iniciante
+* **Nível de experiência**: Com muita vontade de mostrar o que venho aprendendo.
 
 ### Projeto 1 -  mario.c
 A ideia do projeto era criar uma escada de hashes na linguagem C, simbolizando a escada que o Mario sobre no jogo Super Mario Bros.
@@ -93,3 +93,7 @@ escreva um programa que pergunte ao usuário quanto o troco é devido e depois c
   ### Projeto 17 - dna.py
  **Problema a ser resolvido:**
  Sua tarefa é escrever um programa que pegue uma sequência de DNA e um arquivo CSV contendo contagens de STR para uma lista de indivíduos e então produza a quem o DNA (provavelmente) pertence.
+
+   ### Projeto 18 - songs.sql
+ **Problema a ser resolvido:**
+ Escreva consultas SQL para responder perguntas sobre um banco de dados das 100 músicas mais ouvidas no Spotify em 2018.
