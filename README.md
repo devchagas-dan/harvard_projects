@@ -52,3 +52,8 @@ Você já conhece as eleições pluralistas, que seguem um algoritmo muito simpl
 Mas o voto por pluralidade tem algumas desvantagens.
 Existe outro tipo de sistema de votação conhecido como sistema de votação por escolha classificada. Num sistema de escolha por classificação, os eleitores podem votar em mais de um candidato. Em vez de apenas votar na escolha preferida, eles podem classificar os candidatos em ordem de preferência.
 Criar um programa para simular um segundo turno.
+
+### Projeto 9 - tideman.c
+**Problema a ser resolvido:**
+Você já conhece as eleições pluralistas, que seguem um algoritmo muito simples para determinar o vencedor de uma eleição: cada eleitor recebe um voto e o candidato com mais votos vence.
+Criar um programa para simular uma eleição pelo método de votação Tideman.
