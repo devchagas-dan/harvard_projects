@@ -74,5 +74,8 @@ Por exemplo, se um dos pais tem tipo sanguíneo AO e o outro pai tem tipo sangu�
 
 Em um arquivo chamado inheritance.c em uma pasta chamada inheritance, criar programa que simule a herança dos tipos sanguíneos para cada membro de uma família.
 
+### Projeto 13 - speller.c
+**Problema a ser resolvido:**
+Para este problema, você implementará um programa que verifica a ortografia de um arquivo, usando uma tabela hash.
 
  
